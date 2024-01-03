@@ -1,4 +1,4 @@
-This is a Next.js project, showing art collections.
+This is a Next.js project, showing art collections, with available authentication.
 
 ## Getting Started
 
